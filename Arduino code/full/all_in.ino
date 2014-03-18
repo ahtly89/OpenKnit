@@ -1,5 +1,7 @@
 void all_in() {
 
+  //commit test
+
   //FRONT
   digitalWrite(reset, LOW);    
   delay(100);
